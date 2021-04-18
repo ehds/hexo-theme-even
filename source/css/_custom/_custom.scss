@@ -2,3 +2,16 @@
 // Custom style
 // ==============================
 // You can override the variables in _variables.scss to customize the style
+
+.post .post-content code{
+	color: #3351ff;
+}
+
+.post .post-content a{
+	color: #3351ff;
+
+}
+
+.post .post-toc .post-toc-content .toc-link.active{
+	color: #3351ff;
+}
